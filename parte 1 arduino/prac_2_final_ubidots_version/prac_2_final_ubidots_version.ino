@@ -17,7 +17,7 @@ char ssid[] = SECRET_SSID;
 char pass[] = SECRET_PASS;
 
 const char* UBIDOTS_SERVER  = "industrial.ubidots.com";
-const char* TOKEN           = "BBUS-LWgQtTBNYyzWaDwsrCKPatrhDHJUs0";
+const char* TOKEN           = "";
 const char* DEVICE_LABEL    = "nano-iot-test";
 const char* TOPIC_PUBLISH   = "/v1.6/devices/nano-iot-test";
 const char* TOPIC_SUBSCRIBE = "/v1.6/devices/nano-iot-test/power/lv";

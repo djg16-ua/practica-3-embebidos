@@ -6,7 +6,7 @@ char ssid[] = SECRET_SSID;
 char pass[] = SECRET_PASS;
 
 const char* UBIDOTS_SERVER = "industrial.ubidots.com";
-const char* API_KEY        = "BBUS-LWgQtTBNYyzWaDwsrCKPatrhDHJUs0";
+const char* API_KEY        = "";
 const char* DEVICE_LABEL   = "nano-iot-test";
 const char* VAR_LABEL      = "pulsaciones";
 
